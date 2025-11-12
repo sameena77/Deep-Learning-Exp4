@@ -187,7 +187,7 @@ Training Loss, Validation Loss Vs Iteration Plot
 
 **New Sample Data Prediction**
 
-<img width="506" height="540" alt="image" src="https://github.com/user-attachments/assets/4d080241-db97-4dd9-95b1-50e39bf3d296" />
+<img width="505" height="568" alt="image" src="https://github.com/user-attachments/assets/7aaee08b-0a69-4a36-8e1f-e6229159d383" />
 
 
 **RESULT**
